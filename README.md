@@ -2,7 +2,8 @@
 This is a group project on SEPM
 
 # Demo: https://lookingforhelpers-group13.herokuapp.com
-# Install dependencies for server
+
+#Install dependencies for server
 npm install
 
 #Install dependencies for client
