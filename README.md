@@ -1,2 +1,2 @@
 # LookingForHelpers
-This is a group project on SEPM (not fully finished)
+This is a group project on SEPM
